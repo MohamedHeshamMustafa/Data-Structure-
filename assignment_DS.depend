@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492621189 source:/home/mhesham/Desktop/etsh/assignment_DS/assignment_DS/main.cpp
+	<iostream>
+	<cmath>
+	"classes.h"
+
+1492620909 /home/mhesham/Desktop/etsh/assignment_DS/assignment_DS/classes.h
+	<iostream>
+	<string>
+	"classes.h"
+
+1492620882 source:/home/mhesham/Desktop/etsh/assignment_DS/assignment_DS/functions.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"classes.h"
+
